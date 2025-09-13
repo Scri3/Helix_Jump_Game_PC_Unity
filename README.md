@@ -1,4 +1,5 @@
 # Helix_Jump_Game_PC_Unity
+### To simply run the game, get a clone and navigate to "Helix Jump\Built" and run "Helix Jump.exe"
 Helix Jump game on PC consisting of 3 demo levels. Made with Unity (2022.1.24f1) plus Unity free assets imported to the project.
 
 <img width="442" height="589" alt="Ball" src="https://github.com/user-attachments/assets/62f86c8a-e605-447d-bfb5-2e20b226f56c" />
